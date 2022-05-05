@@ -95,7 +95,9 @@ Logical symbol
 
 FULL SUBTRACTOR
 
+
 Logical symbol
+
 
 ![image](https://user-images.githubusercontent.com/94911373/166861989-89b78d06-2849-4cd7-a733-7156af189ea7.png)
 
@@ -104,9 +106,11 @@ Truthtable
 
 ![image](https://user-images.githubusercontent.com/94911373/166862127-40b2a6e5-034f-4f4b-9d3c-dcf77e84d536.png)
 
+
 RTL realization
 
 ![image](https://user-images.githubusercontent.com/94911373/166862210-5fc627ce-42c7-46b5-b793-97246080473b.png)
+
 
 Timing diagram
 
@@ -114,4 +118,5 @@ Timing diagram
 
 
 Result:
+
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software
