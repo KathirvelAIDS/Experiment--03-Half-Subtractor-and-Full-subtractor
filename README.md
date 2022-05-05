@@ -44,7 +44,7 @@ Developed by: kathirvel.A
 RegisterNumber: 212221230047
 
 HALF SUBTRACTOR
-
+```
 module HalfSubtractor(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -64,6 +64,7 @@ assign Diff = ((A^B)^C);
 not(p,A);
 assign Borrow = ((p&B)|(p&C)|(B&C));
 endmodule
+```
 */
 
 ## Output:
