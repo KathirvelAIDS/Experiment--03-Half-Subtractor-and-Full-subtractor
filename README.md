@@ -93,5 +93,25 @@ Logical symbol
 ![image](https://user-images.githubusercontent.com/94911373/166861285-5957d960-49ed-4a4f-8bb4-02faf5fdecee.png)
 
 
-## Result:
-Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
+FULL SUBTRACTOR
+
+Logical symbol
+
+![image](https://user-images.githubusercontent.com/94911373/166861989-89b78d06-2849-4cd7-a733-7156af189ea7.png)
+
+
+Truthtable
+
+![image](https://user-images.githubusercontent.com/94911373/166862127-40b2a6e5-034f-4f4b-9d3c-dcf77e84d536.png)
+
+RTL realization
+
+![image](https://user-images.githubusercontent.com/94911373/166862210-5fc627ce-42c7-46b5-b793-97246080473b.png)
+
+Timing diagram
+
+![image](https://user-images.githubusercontent.com/94911373/166862272-570943b7-d4f4-4902-9a32-ecd81d33b14b.png)
+
+
+Result:
+Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software
